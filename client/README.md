@@ -4,26 +4,26 @@ This project is a job portal application built with React and Vite. It uses Cler
 
 ## Features
 
-- User authentication with Clerk
-- Job listings
-- Apply for jobs
-- View applied jobs
-- Responsive design with Tailwind CSS
+- 🔒 User authentication with Clerk
+- 📋 Job listings
+- 📝 Apply for jobs
+- 📂 View applied jobs
+- 📱 Responsive design with Tailwind CSS
 
 ## Technologies Used
 
-- React
-- Vite
-- Clerk for authentication
-- Tailwind CSS for styling
-- React Router for navigation
+- ⚛️ React
+- ⚡ Vite
+- 🔑 Clerk for authentication
+- 🎨 Tailwind CSS for styling
+- 🚦 React Router for navigation
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
-- npm or yarn
+- 🟢 Node.js (v14 or higher)
+- 📦 npm or yarn
 
 ### Installation
 
@@ -71,4 +71,3 @@ This project is a job portal application built with React and Vite. It uses Cler
     # or
     yarn serve
     ```
-
